@@ -1,0 +1,10 @@
+.page{
+	background-color: #FFF;
+	color: #363636;
+	max-width: 1280px;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: 'OpenSans', sans-serif;
+
+}

@@ -1,0 +1,16 @@
+.card__text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 22px;
+	margin: 0;
+}
+
+.card__text + .card__text {
+	margin-top: 15px;
+}
+
+.card__text:last-child {
+	margin-top: 7px;
+	font-size: 14px;
+	line-height: 19px;
+}
