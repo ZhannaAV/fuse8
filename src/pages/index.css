@@ -11,10 +11,14 @@
 @import url("../blocks/filter/__input/filter__input.css");
 @import url("../blocks/cards/cards.css");
 @import url("../blocks/card/card.css");
+@import url("../blocks/card/__link/card__link.css");
 @import url("../blocks/card/__inner-img/card__inner-img.css");
 @import url("../blocks/card/__inner-text/card__inner-text.css");
 @import url("../blocks/card/__img/card__img.css");
 @import url("../blocks/card/__label/card__label.css");
+@import url("../blocks/card/__label/_type/card__label_type_independ.css");
+@import url("../blocks/card/__label/_type/card__label_type_support.css");
+@import url("../blocks/card/__label-caption/card__label-caption.css");
 @import url("../blocks/card/__text/card__text.css");
 @import url("../blocks/card/__text-accent/card__text-accent.css");
 @import url("../blocks/card/__title/card__title.css");
