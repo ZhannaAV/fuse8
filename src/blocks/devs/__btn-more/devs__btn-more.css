@@ -12,4 +12,11 @@
 	color: #363636;
 	margin: 60px auto 0;
 	display: block;
+	cursor: pointer;
+	transition-delay: .3ms;
 }
+
+.devs__btn-more:hover{
+	background-color: #45852D;
+}
+

@@ -6,4 +6,9 @@
 	border: 1px solid #D8D8D8;
 	box-sizing: border-box;
 	border-radius: 25px;
+	padding: 5px 10px;
+}
+
+.filter__input:focus{
+	outline: 1px solid #45852D
 }
