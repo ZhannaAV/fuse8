@@ -1,5 +1,5 @@
 {
-  "name": "mesto",
+  "name": "fuse8",
   "version": "1.0.0",
   "description": "*Тестовое задание для fuse8*",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZhannaAV/mesto/issues"
+    "url": "https://github.com/ZhannaAV/fuse8/issues"
   },
   "homepage": "https://github.com/ZhannaAV/fuse8#readme",
   "devDependencies": {

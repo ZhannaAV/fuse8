@@ -31,14 +31,16 @@ const filter = new Filter(
                 .catch((err) => console.log(err))
         },
 
-        handleFilterOff: () => {api.getCardsData()
-            .then(res => {
-                cardsContainer.clear()
-                initialDataCards = []
-                res.forEach(cardData => initialDataCards.unshift(cardData))
-                cardsContainer.renderCards()
-            })
-            .catch((err) => console.log(err))}
+        handleFilterOff: () => {
+            api.getCardsData()
+                .then(res => {
+                    cardsContainer.clear()
+                    initialDataCards = []
+                    res.forEach(cardData => initialDataCards.unshift(cardData))
+                    cardsContainer.renderCards()
+                })
+                .catch((err) => console.log(err))
+        }
     })
 
 filter.switchOnFilter()
