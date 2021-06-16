@@ -1,6 +1,8 @@
 .devs__btn-more{
-	width: 150px;
+	padding-left: 33px;
+	padding-right: 33px;
 	height: 50px;
+	max-width: 50%;
 	border: 1px solid #D8D8D8;
 	box-sizing: border-box;
 	border-radius: 25px;
