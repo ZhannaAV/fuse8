@@ -16,6 +16,9 @@
 	display: block;
 	cursor: pointer;
 	transition-delay: .3ms;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
 }
 
 .devs__btn-more:hover{
